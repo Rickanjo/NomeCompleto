@@ -1,4 +1,4 @@
-﻿// Nome Completo ]
+﻿// Nome Completo 
 
 String Nome;
 String Sobrenome;
